@@ -7,6 +7,7 @@ namespace VisProg.Kateb.AfghanDoc.BL
         BaseBL()
         {
             int x;
+            int y;
         }
     }
 }
