@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisProg.Kateb.AfghanDoc.DL", "VisProg.Kateb.AfghanDoc.DL\VisProg.Kateb.AfghanDoc.DL.csproj", "{B644F166-4BE8-4501-9D7C-05DF5D0D64FC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisProg.Kateb.AfghanDoc.BL", "VisProg.Kateb.AfghanDoc.BL\VisProg.Kateb.AfghanDoc.BL.csproj", "{DFCE2B39-CD05-4F58-A3CC-DA40EB2F4F25}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisProg.Kateb.AfghanDoc.SC", "VisProg.Kateb.AfghanDoc.SC\VisProg.Kateb.AfghanDoc.SC.csproj", "{79DAE6E9-AA3B-4280-B684-BA402B58A21B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VisProg.Kateb.AfghanDoc.DTO", "VisProg.Kateb.AfghanDoc.DTO\VisProg.Kateb.AfghanDoc.DTO.csproj", "{2362792B-94C7-4E63-B1DD-D6B12273413F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisProg.Kateb.AfghanDoc.UI", "VisProg.Kateb.AfghanDoc.UI\VisProg.Kateb.AfghanDoc.UI.csproj", "{AF6C8449-1167-4523-B467-8002CCD830BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisProg.Kateb.AfghanDoc.SL", "VisProg.Kateb.AfghanDoc.SL\VisProg.Kateb.AfghanDoc.SL.csproj", "{DCD52487-5850-46B1-AECD-B1151AC1E074}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B644F166-4BE8-4501-9D7C-05DF5D0D64FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B644F166-4BE8-4501-9D7C-05DF5D0D64FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B644F166-4BE8-4501-9D7C-05DF5D0D64FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B644F166-4BE8-4501-9D7C-05DF5D0D64FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFCE2B39-CD05-4F58-A3CC-DA40EB2F4F25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFCE2B39-CD05-4F58-A3CC-DA40EB2F4F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFCE2B39-CD05-4F58-A3CC-DA40EB2F4F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFCE2B39-CD05-4F58-A3CC-DA40EB2F4F25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79DAE6E9-AA3B-4280-B684-BA402B58A21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79DAE6E9-AA3B-4280-B684-BA402B58A21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79DAE6E9-AA3B-4280-B684-BA402B58A21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79DAE6E9-AA3B-4280-B684-BA402B58A21B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2362792B-94C7-4E63-B1DD-D6B12273413F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2362792B-94C7-4E63-B1DD-D6B12273413F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2362792B-94C7-4E63-B1DD-D6B12273413F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2362792B-94C7-4E63-B1DD-D6B12273413F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF6C8449-1167-4523-B467-8002CCD830BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF6C8449-1167-4523-B467-8002CCD830BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF6C8449-1167-4523-B467-8002CCD830BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF6C8449-1167-4523-B467-8002CCD830BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCD52487-5850-46B1-AECD-B1151AC1E074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD52487-5850-46B1-AECD-B1151AC1E074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD52487-5850-46B1-AECD-B1151AC1E074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD52487-5850-46B1-AECD-B1151AC1E074}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3112CDF-D6EF-4735-90A4-17EFF6B64652}
+	EndGlobalSection
+EndGlobal
