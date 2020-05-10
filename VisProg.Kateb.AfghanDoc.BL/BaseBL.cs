@@ -6,6 +6,7 @@ namespace VisProg.Kateb.AfghanDoc.BL
     {
         BaseBL()
         {
+            //Add Comment
         }
     }
 }
